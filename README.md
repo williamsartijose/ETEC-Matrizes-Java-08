@@ -64,7 +64,6 @@ principal é mostrado ao lado (no caso as células com fundo cinza).
 
 ![Web 2](https://github.com/williamsartijose/ETEC-Matrizes-Java-08/blob/main/6.png)
 
-
 # Autor
 
 William Sarti José
